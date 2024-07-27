@@ -1,3 +1,3 @@
 ## EthersJs Simple Storage
 
-Smart contract in the smart contract repo
+Deploying Smart Contracts with EthersJs
